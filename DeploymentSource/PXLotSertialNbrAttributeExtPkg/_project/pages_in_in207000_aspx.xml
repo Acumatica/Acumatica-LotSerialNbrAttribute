@@ -1,0 +1,211 @@
+﻿<Page path="~/pages/in/in207000.aspx" ControlId="3" pageSource="rVfbbttGEH034H8gWPixkpwmaGNIQRXKdoRIqmAqtt+KFbmWtlpy2d2lLnnot3eGF2lJkRRT1DBgejk71zNzhv2b3605WVFrQsJVDA8D2/nJtqZEaSrxxQPjcPZP93Siug9CBiOqCeOdIDm2rWGsxf2WhvqFSRpHA1vLmNrWM+HMJ5o+0b9jqvTAfiNcwbkj/EzzePau92uv1+sQFe07nrKvryz4GYdrKplWAxtN/plL2daCabz2LdT44CfO29bNp+ur66s+BJP6uThE1HpmUseEz4let4gAVfTBiTtHhBoCscajge3B8y26mxzNOfHoF8F9KvFltB65tiXjkEBgLpVbUPMpdb8f7e/mryOiiSti6dFEma+O0iqVBhcVW2I8iyRdL8xHX297vRuIFGKYkQBezl87fyz/op5WnfEMfidCgzmHE6WmhIXatuaSBUQenhndDWwuNOj38HXuT+KTQzhfEm/jiCAgoa+Md4bPbknMSn0Yh6ATLQmlMS6MmL/ZVrelFvzLtLMGmFGVx5uqdsmWtleU3nlgUlV442oi9YzuHqU4gfDHNE9IlWJTR79bk8l+t1R2hFTXwFQdxN7VQ+yhEWGIYyx6oukN/jlD2MmZHIKuPiDivv/MQp/u76xbbKsC8vDOlAZLKotgshwSaSZCSJLQXfCHEW65VGsWrpTlxgFi0D4laiY0HYc+84gWMq85tr06Ox16mm2ZPtS+eGCU+wMbVeZH4Ch9IzHXmDspOAZIfaM5xiPDGQzqKz1gkVUSgCGVeJpZKLTMggYRh/lViaAJOYhYP8WclpOewNARPA7CPI4JWVKusjRP03qDzy77DrV4ndahFNAHfS+kVRVcVa2zKEqC1coXdK/vfaYz5SOqPNmkNBOo6ScpopHYhdWdbrq/kNA6Z3aGnIvdLOYcmjslibNwsovV9p019TafxT5tqvXGuHK/j5gkiNzLKTu70M4aEhwwnw8NiYlQaxY12aoUv5BXM4VDpdjqPJoWOcxvlqrUOCmrPBgrFdMp1Wvh/xc3CtcvpLgWUMcqz+LAXRPI5+X6GqLVZmFN2BhNcbwFq0wr7YlcO9Dg0jSDHpwtG9uuIFatGezCtDbcxjvpgJ6SvSNiXBKaLZSly4ZM/iuNxYz3cjJqy3q/1LPeYyPrPUrmJ1pW8NCC8b5QtlqDxO2HXrRvQ4BHnkvzCvR2pDmDURZkOUYNyS1Qu2EhWkz3yuLqNYV9F3ZahrvJk9jlIC5sFRO6BYaoLC8GnLyuoGZFVwGksGDveBts1VBY0YBBZRiCefD+LMH/B7tdgK+bBtXMcYbQfUhgjfaP86bZXIn3Mj3QuBjKRXuZXJWJfrc54f00a+Uinxc7lUsH6bcIv6CqRqmRAAxpyGGyA7cg2I+A/vAeId+cj7LFutGd2cMPk/TzBMCeccOE4daMcwR348/AoaVvmo8ff8iP2rTnffpbr04frOeVWc6m1LGXChv9WfP1k5kI+E2wDF9Z2HEvMDHEzoBbGuKUhcaIOXllWKyYif8C">
+    <Content ID="cont3" ParentId="phG" TypeFullName="System.Web.UI.WebControls.Content">
+        <Children Key="Controls">
+            <AddItem>
+                <PXTab TypeFullName="PX.Web.UI.PXTab">
+                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                    <Prop Key="ID" Value="CstPXTab1" />
+                    <Children Key="Items">
+                        <AddItem>
+                            <PXTabItem TypeFullName="PX.Web.UI.PXTabItem">
+                                <Children Key="Template">
+                                    <AddItem>
+                                        <PXGrid TypeFullName="PX.Web.UI.PXGrid">
+                                            <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                            <Prop Key="ID" Value="CstPXGrid2" />
+                                            <Children Key="Levels">
+                                                <AddItem>
+                                                    <PXGridLevel TypeFullName="PX.Web.UI.PXGridLevel">
+                                                        <Prop Key="DataMember" Value="lotsersegments" />
+                                                        <Children Key="RowTemplate">
+                                                            <AddItem>
+                                                                <PXLayoutRule TypeFullName="PX.Web.UI.PXLayoutRule">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="ID" Value="PXLayoutRule4" />
+                                                                    <Prop Key="StartColumn" Value="True" />
+                                                                    <Prop Key="LabelsWidth" Value="M" />
+                                                                    <Prop Key="ControlSize" Value="XM" />
+                                                                    <Children Key="Controls" />
+                                                                </PXLayoutRule>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXNumberEdit TypeFullName="PX.Web.UI.PXNumberEdit">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="Enabled" Value="False" />
+                                                                    <Prop Key="DataField" Value="SegmentID" />
+                                                                    <Prop Key="ID" Value="edSegmentID" />
+                                                                </PXNumberEdit>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXTextEdit TypeFullName="PX.Web.UI.PXTextEdit">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="DataField" Value="SegmentValue" />
+                                                                    <Prop Key="ID" Value="edSegmentValue" />
+                                                                </PXTextEdit>
+                                                            </AddItem>
+                                                        </Children>
+                                                        <Children Key="Columns">
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="SegmentID" />
+                                                                    <Prop Key="TextAlign" Value="Right" />
+                                                                    <Prop Key="Width" Value="54px" />
+                                                                    <Prop Key="AllowUpdate" Value="False" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="SegmentType" />
+                                                                    <Prop Key="Type" Value="DropDownList" />
+                                                                    <Prop Key="Width" Value="99px" />
+                                                                    <Prop Key="AutoCallBack" Value="True" />
+                                                                    <Prop Key="AllowNull" Value="False" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="SegmentValue" />
+                                                                    <Prop Key="Width" Value="180px" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                        </Children>
+                                                    </PXGridLevel>
+                                                </AddItem>
+                                            </Children>
+                                            <Prop Key="AutoSize.Enabled" Value="True" />
+                                            <Prop Key="AutoSize.Container" Value="Window" />
+                                            <Prop Key="AutoSize.MinHeight" Value="150" />
+                                            <Prop Key="Height" Value="150px" />
+                                            <Prop Key="SkinID" Value="Details" />
+                                            <Prop Key="TabIndex" Value="100" />
+                                            <Prop Key="Width" Value="100%" />
+                                            <Prop Key="DataSourceID" Value="ds" />
+                                        </PXGrid>
+                                    </AddItem>
+                                </Children>
+                                <Prop Key="Text" Value="Numbering Settings" />
+                            </PXTabItem>
+                        </AddItem>
+                        <AddItem>
+                            <PXTabItem TypeFullName="PX.Web.UI.PXTabItem">
+                                <Prop Key="Text" Value="Attributes" />
+                                <Children Key="Template">
+                                    <AddItem>
+                                        <PXGrid TypeFullName="PX.Web.UI.PXGrid">
+                                            <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                            <Prop Key="ID" Value="CstPXGrid3" />
+                                            <Children Key="Levels">
+                                                <AddItem>
+                                                    <PXGridLevel TypeFullName="PX.Web.UI.PXGridLevel">
+                                                        <Prop Key="DataMember" Value="Mapping" />
+                                                        <Children Key="RowTemplate">
+                                                            <AddItem>
+                                                                <PXSelector TypeFullName="PX.Web.UI.PXSelector">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="DataField" Value="AttributeID" />
+                                                                    <Prop Key="FilterByAllFields" Value="True" />
+                                                                    <Prop Key="AutoRefresh" Value="true" />
+                                                                    <Prop Key="ID" Value="edAttributeID" />
+                                                                </PXSelector>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXTextEdit TypeFullName="PX.Web.UI.PXTextEdit">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="DataField" Value="Description" />
+                                                                    <Prop Key="ID" Value="edDescription" />
+                                                                </PXTextEdit>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXNumberEdit TypeFullName="PX.Web.UI.PXNumberEdit">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="DataField" Value="SortOrder" />
+                                                                    <Prop Key="ID" Value="edSortOrder" />
+                                                                </PXNumberEdit>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXCheckBox TypeFullName="PX.Web.UI.PXCheckBox">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="Text" Value="Required" />
+                                                                    <Prop Key="DataField" Value="Required" />
+                                                                    <Prop Key="ID" Value="edRequired" />
+                                                                </PXCheckBox>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXDropDown TypeFullName="PX.Web.UI.PXDropDown">
+                                                                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                                                                    <Prop Key="DataField" Value="ControlType" />
+                                                                    <Prop Key="ID" Value="edControlType" />
+                                                                </PXDropDown>
+                                                            </AddItem>
+                                                        </Children>
+                                                        <Children Key="Columns">
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="AttributeID" />
+                                                                    <Prop Key="DisplayFormat" Value="&gt;aaaaaaaaaa" />
+                                                                    <Prop Key="Width" Value="81px" />
+                                                                    <Prop Key="CommitChanges" Value="True" />
+                                                                    <Prop Key="LinkCommand" Value="ShowDetails" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="Description" />
+                                                                    <Prop Key="Width" Value="200px" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="SortOrder" />
+                                                                    <Prop Key="TextAlign" Value="Right" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="Required" />
+                                                                    <Prop Key="Type" Value="CheckBox" />
+                                                                    <Prop Key="TextAlign" Value="Center" />
+                                                                    <Prop Key="Width" Value="60px" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                            <AddItem>
+                                                                <PXGridColumn TypeFullName="PX.Web.UI.PXGridColumn">
+                                                                    <Prop Key="DataField" Value="ControlType" />
+                                                                    <Prop Key="TextAlign" Value="Right" />
+                                                                </PXGridColumn>
+                                                            </AddItem>
+                                                        </Children>
+                                                    </PXGridLevel>
+                                                </AddItem>
+                                            </Children>
+                                            <Prop Key="AutoSize.Enabled" Value="True" />
+                                            <Prop Key="AutoSize.Container" Value="Window" />
+                                            <Prop Key="AutoSize.MinHeight" Value="150" />
+                                            <Prop Key="SyncPosition" Value="True" />
+                                            <Prop Key="Height" Value="150px" />
+                                            <Prop Key="SkinID" Value="Details" />
+                                            <Prop Key="TabIndex" Value="1300" />
+                                            <Prop Key="Width" Value="100%" />
+                                            <Prop Key="DataSourceID" Value="ds" />
+                                        </PXGrid>
+                                    </AddItem>
+                                </Children>
+                            </PXTabItem>
+                        </AddItem>
+                    </Children>
+                </PXTab>
+            </AddItem>
+            <PXGrid ID="grid" OriginalIndex="0" Remove="True" />
+        </Children>
+    </Content>
+    <PXDataSource ID="ds" ParentId="phDS_ds" TypeFullName="PX.Web.UI.PXDataSource">
+        <Children Key="CallbackCommands">
+            <AddItem>
+                <PXDSCallbackCommand TypeFullName="PX.Web.UI.PXDSCallbackCommand">
+                    <Prop Key="Name" Value="ShowDetails" />
+                    <Prop Key="Visible" Value="False" />
+                </PXDSCallbackCommand>
+            </AddItem>
+        </Children>
+    </PXDataSource>
+</Page>
