@@ -1,10 +1,10 @@
-﻿<Page path="~/pages/in/in207000.aspx" ControlId="3" pageSource="rVfbbttGEH034H8gWPixkpwmaGNIQRXKdoRIqmAqtt+KFbmWtlpy2d2lLnnot3eGF2lJkRRT1DBgejk71zNzhv2b3605WVFrQsJVDA8D2/nJtqZEaSrxxQPjcPZP93Siug9CBiOqCeOdIDm2rWGsxf2WhvqFSRpHA1vLmNrWM+HMJ5o+0b9jqvTAfiNcwbkj/EzzePau92uv1+sQFe07nrKvryz4GYdrKplWAxtN/plL2daCabz2LdT44CfO29bNp+ur66s+BJP6uThE1HpmUseEz4let4gAVfTBiTtHhBoCscajge3B8y26mxzNOfHoF8F9KvFltB65tiXjkEBgLpVbUPMpdb8f7e/mryOiiSti6dFEma+O0iqVBhcVW2I8iyRdL8xHX297vRuIFGKYkQBezl87fyz/op5WnfEMfidCgzmHE6WmhIXatuaSBUQenhndDWwuNOj38HXuT+KTQzhfEm/jiCAgoa+Md4bPbknMSn0Yh6ATLQmlMS6MmL/ZVrelFvzLtLMGmFGVx5uqdsmWtleU3nlgUlV442oi9YzuHqU4gfDHNE9IlWJTR79bk8l+t1R2hFTXwFQdxN7VQ+yhEWGIYyx6oukN/jlD2MmZHIKuPiDivv/MQp/u76xbbKsC8vDOlAZLKotgshwSaSZCSJLQXfCHEW65VGsWrpTlxgFi0D4laiY0HYc+84gWMq85tr06Ox16mm2ZPtS+eGCU+wMbVeZH4Ch9IzHXmDspOAZIfaM5xiPDGQzqKz1gkVUSgCGVeJpZKLTMggYRh/lViaAJOYhYP8WclpOewNARPA7CPI4JWVKusjRP03qDzy77DrV4ndahFNAHfS+kVRVcVa2zKEqC1coXdK/vfaYz5SOqPNmkNBOo6ScpopHYhdWdbrq/kNA6Z3aGnIvdLOYcmjslibNwsovV9p019TafxT5tqvXGuHK/j5gkiNzLKTu70M4aEhwwnw8NiYlQaxY12aoUv5BXM4VDpdjqPJoWOcxvlqrUOCmrPBgrFdMp1Wvh/xc3CtcvpLgWUMcqz+LAXRPI5+X6GqLVZmFN2BhNcbwFq0wr7YlcO9Dg0jSDHpwtG9uuIFatGezCtDbcxjvpgJ6SvSNiXBKaLZSly4ZM/iuNxYz3cjJqy3q/1LPeYyPrPUrmJ1pW8NCC8b5QtlqDxO2HXrRvQ4BHnkvzCvR2pDmDURZkOUYNyS1Qu2EhWkz3yuLqNYV9F3ZahrvJk9jlIC5sFRO6BYaoLC8GnLyuoGZFVwGksGDveBts1VBY0YBBZRiCefD+LMH/B7tdgK+bBtXMcYbQfUhgjfaP86bZXIn3Mj3QuBjKRXuZXJWJfrc54f00a+Uinxc7lUsH6bcIv6CqRqmRAAxpyGGyA7cg2I+A/vAeId+cj7LFutGd2cMPk/TzBMCeccOE4daMcwR348/AoaVvmo8ff8iP2rTnffpbr04frOeVWc6m1LGXChv9WfP1k5kI+E2wDF9Z2HEvMDHEzoBbGuKUhcaIOXllWKyYif8C">
+﻿<Page path="~/pages/in/in207000.aspx" ControlId="3" pageSource="rVdtb9pIEP4eKf/B8ikfD0iv1V0jqI6akKIDimKa5NtpsTewx9rr213z0g/32zvjNxZjG1JdFCnOenZmnplnXty9+dOakSW1xiRcxvDQs51fbGtClKYSXwwZh7P/2ocT1R4KGQyoJoy3guTYtvqxFvcbGupnJmkc9WwtY2pbT4Qzn2j6SP+NqdI9+5VwBeeO8DPNo+m7zu+dTqdFVLRrecq+vrLgZxSuqGRa9Ww0+XcuZVtzpvHat1Djg584b1s3n66vrq+6ACb1c76PqPXEpI4JnxG9ugABquiCE3eOCDUAsUaDnu3B8y26mxzNOPHoF8F9KvFltBq4tiXjkAAwl8oNqPmUut+NdnezlwHRxBWx9GiizFeFtEqlwUXFFohnnoTrmfno622ncwNIAcOUBPBy9tL6uviHelq1RlP4HQsN5hxOlJoQFmrbmkkWELl/YnTbs7nQoN/D17k/iU8O4XxBvLUjgoCEvjLeGT67JTEr9WEUgk60JJRGXIiYv9pW+0It+JdpZwU0oyrHm6p2yYZerii9M2RSVXjjaiL1lG4fpDiQ8G2ax6RKsamj266JZLddSjtSqm1wqo5i7+opNmxkGPIYk55oeoV/Thh2cCanoKv3yLjvv7LQp7s76xbL6oh5eGdCgwWVx2SyHBJpJkIIktBt8IcRbrlUaxYuleXGAXLQPgRqKjQdhT7ziBYyzzmWvTo57XuabZje174YMsr9no0q8yNwlL6SmGuMnRQcAVLfKI7RwHAGQf1F95hklQAwpBJPMwtHJTOnQcShf1UyaEz2ItaPMafloCc0dASPgzDHMSYLylUW5kmab/DZZd8hFy+TOpYC+6DuhbSqwFXlOkNREqxWPqc7fe8znSkfUOXJJqWZQE09SRENxDasrnTT/bmE0jmx0+dcbKcx51Dc6ZA4gZNdrLbvrKi3/ix2aVGt1saV+13EJEHmng/ZyYXLrOGAg8nnQ0FiINSKRU22KsXPxNUMYV8ptjxFc0EM85ulLDV2yioPRkrFdEL1Svg/48bR9Tf4UsS9lmVF6qdx4K4IBPl80g3RarOwO6yNSiluwX5zkfZE7mdgZohwvZpCtU4XjQV6JFatGZyBvm5gwTtpK5+QnSNiXCeaLZSly4bMSVlqoNmEzMfWpfPxt/r5+NA4Hx8k8xMtS3i4YDZ+oWy5AonbD51od8moLCZiGlcYhMVANGbPnCxGqCG5BWrXLESL6QZ6vKRNYDOG7ZfhFvMotjmzj/aPMd3ALKlMLwJOXlcMcUWXAYTwyF5xG2zVDLtjA8bQQwjmwfuTAP8fc/AMfd0UVPM0NITuQwILt190pmZzpQmZ6YFqRihn7WVyVSa67eaAd9OolZN8muxULm253yL81qpqukYAEFKfwwyAKYRkLwj94T1SvjkeZYt1TT6zh58w6YcMkD2bImOG+zX2EdyiP8O0LX39fPz4Jj9qw57X6R+dOn2wyFdGOetSRS0d7f4nxddNeiLwN+EyfI9hxT1DxxBbg24pxAkLjRZz8MqwWNETfwA=">
     <Content ID="cont3" ParentId="phG" TypeFullName="System.Web.UI.WebControls.Content">
         <Children Key="Controls">
             <AddItem>
                 <PXTab TypeFullName="PX.Web.UI.PXTab">
                     <Prop Key="Virtual:ApplyStylesheetSkin" />
-                    <Prop Key="ID" Value="CstPXTab1" />
+                    <Prop Key="ID" Value="tabPXLSAttributes" />
                     <Children Key="Items">
                         <AddItem>
                             <PXTabItem TypeFullName="PX.Web.UI.PXTabItem">
@@ -12,7 +12,7 @@
                                     <AddItem>
                                         <PXGrid TypeFullName="PX.Web.UI.PXGrid">
                                             <Prop Key="Virtual:ApplyStylesheetSkin" />
-                                            <Prop Key="ID" Value="CstPXGrid2" />
+                                            <Prop Key="ID" Value="grdPXLSlotsersegments" />
                                             <Children Key="Levels">
                                                 <AddItem>
                                                     <PXGridLevel TypeFullName="PX.Web.UI.PXGridLevel">
@@ -93,7 +93,7 @@
                                     <AddItem>
                                         <PXGrid TypeFullName="PX.Web.UI.PXGrid">
                                             <Prop Key="Virtual:ApplyStylesheetSkin" />
-                                            <Prop Key="ID" Value="CstPXGrid3" />
+                                            <Prop Key="ID" Value="grdLSPXAttributes" />
                                             <Children Key="Levels">
                                                 <AddItem>
                                                     <PXGridLevel TypeFullName="PX.Web.UI.PXGridLevel">
