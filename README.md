@@ -19,6 +19,7 @@ This extension allows to add attribute support to Lot/Serial Number so that each
 * Acumatica 2019 R1 (19.093.0107 or higher)
 * Acumatica 2019 R2
 * Acumatica 2020 R1 (20.103.0019 or higher)
+* Acumatica 2020 R2 (20.200.0077 or higher)
 
 Quick Start
 -----------
